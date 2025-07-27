@@ -94,11 +94,11 @@ pip install -r requirements.txt
 - Open any .ipynb file in Google Colab or Jupyter Notebook
 - Run cells to train/evaluate the models
 
-# License
+# **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-# 👤 Author
+# **👤 Author**
 
 **Clementena J**  
 B.Tech - Electronics and Communication Engineering  
@@ -108,4 +108,4 @@ GitHub: [@clementena03](https://github.com/clementena03)
 
 
 
-                                                  This project was developed as part of my undergraduate mini-project 
+                                                  T     his project was developed as part of my undergraduate mini-project 
