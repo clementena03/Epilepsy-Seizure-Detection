@@ -108,5 +108,4 @@ GitHub: [@clementena03](https://github.com/clementena03)
 
 
 
-This project was developed as part of my undergraduate mini-project to apply ML/DL techniques for healthcare signal processing.
-
+                                                  This project was developed as part of my undergraduate mini-project 
